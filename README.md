@@ -1,3 +1,12 @@
+# LUXO
+./out/threejs/lessons/index.html
+
+npm build -> npm start       (for starting server)
+
+<img width="1792" alt="스크린샷 2020-10-30 오전 4 31 16" src="https://user-images.githubusercontent.com/45251129/98227026-202a4d80-1f9a-11eb-90d4-ac5dba6b4c59.png">
+
+
+
 Three.js Fundamentals
 =====================
 
@@ -220,13 +229,6 @@ On Windows
 set ARTICLE_FILTER=scenegraph
 npm run buildlessons
 ```
-# LUXO
-./out/threejs/lessons/index.html
-
-npm build -> npm start       (for starting server)
-
-<img width="1792" alt="스크린샷 2020-10-30 오전 4 31 16" src="https://user-images.githubusercontent.com/45251129/98227026-202a4d80-1f9a-11eb-90d4-ac5dba6b4c59.png">
-
 
 
 
