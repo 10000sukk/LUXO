@@ -221,3 +221,9 @@ set ARTICLE_FILTER=scenegraph
 npm run buildlessons
 ```
 # LUXO
+./out/threejs/lessons/index.html
+
+npm build -> npm start       (for starting server)
+
+
+
